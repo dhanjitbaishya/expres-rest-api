@@ -5,11 +5,11 @@ A simple REST API built with Express.js that allows users to get information abo
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/dhanjitbaishya/expres-rest-api.git
    ```
 2. Navigate into the project folder:
    ```bash
-   cd express-tshirt-api
+   cd express-rest_api
    ```
 3. Install dependencies:
    ```bash
